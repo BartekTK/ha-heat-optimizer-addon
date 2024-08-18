@@ -1,0 +1,10 @@
+name: "Heat Optimizer"
+version: "1.0"
+slug: "heat_optimizer"
+description: "A custom add-on to optimize heating using AI."
+startup: "application"
+boot: "auto"
+ports:
+  5000/tcp: 5000
+schema: {}
+image: "local/heat_optimizer"

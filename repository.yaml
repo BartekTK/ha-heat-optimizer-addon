@@ -1,0 +1,5 @@
+name: "Heat Optimizer Add-ons"
+url: "https://github.com/BartekTK/ha-heat-optimizer-addon"
+maintainer: "Your Name"
+description: "Add-ons for optimizing heating with Home Assistant."
+version: "1.0"
