@@ -1,0 +1,7 @@
+{
+  "name": "Heat Optimizer Add-ons",
+  "url": "https://github.com/BartekTK/ha-heat-optimizer-addon",
+  "maintainer": "BartekTK",
+  "description": "Add-ons for optimizing heating/cooling & water with Home Assistant.",
+  "version": "1.0"
+}
